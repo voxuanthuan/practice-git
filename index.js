@@ -6,3 +6,4 @@ var chim = new Dog('Chim');
 chim.sayHi();
 
 gau.sayHi();
+console.log('log');
